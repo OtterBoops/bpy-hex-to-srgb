@@ -1,6 +1,6 @@
 bl_info = {
     "name": "Hex to sRGB",
-    "author": "Your Name Here",
+    "author": "OtterBoops + Plat",
     "version": (1, 0),
     "blender": (2, 93, 0),
     "location": "Object > Material Properties > Hex to sRGB",
